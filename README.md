@@ -10,12 +10,13 @@ val profile = {
   val technologies = for {
     frontEnd  <- List("Angular", "ReactJS")
     backEnd   <- {
-      val scala  = List("Play Framework", "Slick", "Cats")
-      val python = "fastapi"
+      val scala  = List("Play Framework", "Slick", "Sangria", "Tapir")
+      val python = "FastApi"
       scala :+ python
     }
-    databases <- List("MySQL", "Mongo", "PostgreSQL", "Redis")
-  } yield s"$frontEnd $backEnd $databases"
+    databases <- List("MySQL", "MongoDB", "PostgreSQL", "Redis")
+    devOps    <- List("Docker", "docker-compose", "AWS", "CI/CD Pipelines", "Github Actions")
+  } yield s"$frontEnd $backEnd $databases $devOps"
 }
 ```
 
