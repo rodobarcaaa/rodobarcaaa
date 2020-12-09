@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there 
+
+👨‍🎓 Software Engineer from the University of Cuba(UCI - Class of 2011) 
+
+```scala
+val profile = {
+  val pronouns     = ("He", "Him")
+  val blogUrl      = "https://rodobarcaaa.github.io/"
+  val askMeAbout   = ("tech", "webdev", "soccer")
+  val technologies = for {
+    frontEnd  <- List("Angular", "ReactJS")
+    backEnd   <- {
+      val scala  = List("Play Framework", "Slick", "Cats")
+      val python = "fastapi"
+      scala :+ python
+    }
+    databases <- List("MySQL", "Mongo", "PostgreSQL", "Redis")
+  } yield s"$frontEnd $backEnd $databases"
+}
+```
 
 <!--
 **rodobarcaaa/rodobarcaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
