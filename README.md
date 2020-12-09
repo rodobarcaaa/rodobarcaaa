@@ -3,7 +3,7 @@
 👨‍🎓 Software Engineer from the University of Cuba(UCI - Class of 2011) 
 
 ```scala
-val profile = {
+def profile = {
   val pronouns     = ("He", "Him")
   val blogUrl      = "https://rodobarcaaa.github.io/"
   val askMeAbout   = ("tech", "webdev", "soccer")
