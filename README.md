@@ -1,10 +1,9 @@
-### Hi there 👋
-
-👨‍🎓 Software Engineer from the University of Cuba(UCI - Class of 2011) 
+### Hi there, I'm Rodolfo 👋
 
 ```scala
 def profile = {
   val pronouns     = ("He", "Him")
+  val education    = "👨‍🎓 Engineer's degree from the University of Informatic Sciences(UCI - Class of 2011)"
   val blogUrl      = "https://rodobarcaaa.github.io/"
   val askMeAbout   = ("tech", "webdev", "soccer")
   val technologies = for {
