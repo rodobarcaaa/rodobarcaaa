@@ -3,7 +3,7 @@
 ```scala
 def profile = {
   val pronouns     = ("He", "Him")
-  val education    = "👨‍🎓 Engineer's Degree from the University of Informatic Sciences(UCI - Class of 2011)"
+  val education    = "👨‍🎓 Computer Science Engineer's (Cuba-UCI / Class of 2011)"
   val blogUrl      = "https://rodobarcaaa.github.io/"
   val askMeAbout   = ("tech", "webdev", "soccer")
   val technologies = for {
