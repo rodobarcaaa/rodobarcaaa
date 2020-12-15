@@ -7,7 +7,7 @@ def profile = {
   val blogUrl      = "https://rodobarcaaa.github.io/"
   val askMeAbout   = ("tech", "webdev", "soccer")
   val technologies = for {
-    frontEnd  <- List("Angular", "ReactJS")
+    frontEnd  <- List("HTML", "CSS", "Angular", "Learning ReactJS")
     backEnd   <- {
       val scala  = List("Play Framework", "Slick", "Sangria", "Tapir")
       val python = "Learning FastApi"
