@@ -14,7 +14,7 @@ def profile = {
       scala :+ python
     }
     databases <- List("MySQL", "MongoDB", "PostgreSQL", "Redis")
-    devOps    <- List("Docker", "docker-compose", "AWS", "CI/CD Pipelines", "Github Actions")
+    devOps    <- List("Docker", "AWS", "CI/CD Pipelines", "Github Actions")
   } yield s"$frontEnd $backEnd $databases $devOps"
 }
 ```
