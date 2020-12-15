@@ -10,7 +10,7 @@ def profile = {
     frontEnd  <- List("Angular", "ReactJS")
     backEnd   <- {
       val scala  = List("Play Framework", "Slick", "Sangria", "Tapir")
-      val python = "FastApi"
+      val python = "Learning FastApi"
       scala :+ python
     }
     databases <- List("MySQL", "MongoDB", "PostgreSQL", "Redis")
