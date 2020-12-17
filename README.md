@@ -12,10 +12,10 @@ def profile = {
       val python = "Learning FastApi"
       scala :+ python
     }
-    frontEnd  <- List("HTML", "CSS", "Angular", "Learning ReactJS")
     databases <- List("MySQL", "PostgreSQL", "Redis", "MongoDB")
+    frontEnd  <- List("HTML", "CSS", "Angular", "Learning ReactJS")
     devOps    <- List("Docker", "AWS", "CI/CD Pipelines", "Github Actions")
-  } yield s"$frontEnd $backEnd $databases $devOps"
+  } yield List(backEnd, databases, devOps, frontEnd).mkString("\n")
 }
 ```
 
