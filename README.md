@@ -2,8 +2,8 @@
 
 ```scala
 def profile = {
-  val pronouns     = ("He", "Him")
-  val education    = "👨‍🎓 Computer Science Engineer's (Cuba-UCI / Class of 2011)"
+  val pronouns     = "He" -> "Him"
+  val education    = """👨‍🎓 Computer Science Engineer's (Cuba-UCI / Class of 2011)"""
   val blogUrl      = "https://rodobarcaaa.github.io/"
   val askMeAbout   = ("tech", "webdev", "soccer")
   val technologies = for {
@@ -13,7 +13,7 @@ def profile = {
       scala :+ python
     }
     databases <- List("MySQL", "PostgreSQL", "Redis", "MongoDB")
-    frontEnd  <- List("HTML", "CSS", "Angular", "Learning ReactJS")
+    frontEnd  <- List("HTML", "CSS", "JS", "TS", "Angular", "ReactJS")
     devOps    <- List("Docker", "AWS", "CI/CD Pipelines", "Github Actions")
   } yield List(backEnd, databases, devOps, frontEnd).mkString("\n")
 }
