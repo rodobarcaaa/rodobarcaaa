@@ -15,7 +15,8 @@ def profile = {
     databases <- List("MySQL", "PostgreSQL", "Redis", "MongoDB")
     frontEnd  <- List("HTML", "CSS", "JS", "TS", "Angular", "ReactJS")
     devOps    <- List("Docker", "AWS", "CI/CD Pipelines", "Github Actions")
-  } yield List(backEnd, databases, devOps, frontEnd).mkString("\n")
+  } yield println(List(backEnd, databases, devOps, frontEnd).mkString(", "))
+
 }
 ```
 
