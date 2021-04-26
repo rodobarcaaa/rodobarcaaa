@@ -13,7 +13,7 @@ def profile = {
       scala :+ python
     }
     databases <- List("MySQL", "PostgreSQL", "Redis", "MongoDB")
-    frontEnd  <- List("HTML", "CSS", "JS", "TS", "Angular", "ReactJS")
+    frontEnd  <- List("HTML", "CSS", "JS", "TS", "Learning ReactJS")
     devOps    <- List("Docker", "AWS", "CI/CD Pipelines", "Github Actions")
   } yield println(List(backEnd, databases, devOps, frontEnd).mkString(", "))
 
