@@ -8,8 +8,9 @@ def profile = {
   val askMeAbout   = ("tech", "webdev", "soccer")
   val technologies = for {
     backEnd   <- {
+      val java   = "My first programming language!"
       val scala  = List("Play", "Slick", "Tapir", "Sangria")
-      val python = "Learning FastApi"
+      val python = "Learning FastApi!⚡"
       scala :+ python
     }
     databases <- List("MySQL", "PostgreSQL", "Redis", "MongoDB")
