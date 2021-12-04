@@ -7,16 +7,16 @@ def profile = {
   val blogUrl      = "https://rodobarcaaa.github.io/"
   val askMeAbout   = ("tech", "webdev", "soccer")
   val technologies = for {
-    backEnd   <- {
+    backend   <- {
       val java   = "My first programming language!"
       val scala  = List("Play", "Slick", "Tapir", "Sangria")
       val python = "Learning FastApi!⚡"
-      scala :+ python
+      val node   = "Learning NestJs!"
+      java +: scala :+ python :+ node
     }
     databases <- List("MySQL", "PostgreSQL", "Redis", "MongoDB")
-    devOps    <- List("Docker", "AWS", "CI/CD", "Github Actions")
-    frontEnd  <- List("HTML", "CSS", "JS", "TS", "Learning ReactJS")
-  } yield println(List(backEnd, databases, devOps, frontEnd).mkString(", "))
+    devops    <- List("Docker", "AWS", "CI/CD", "Github Actions")
+  } yield println(List(backend, databases, devops).mkString(" - "))
 }
 ```
 
