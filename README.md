@@ -14,9 +14,9 @@ def profile = {
       val node   = "Learning NestJs!"
       java +: scala :+ python :+ node
     }
-    databases <- List("MySQL", "PostgreSQL", "Redis", "MongoDB")
+    database <- List("MySQL", "PostgreSQL", "Redis", "MongoDB")
     devops    <- List("Docker", "AWS", "CI/CD", "Github Actions")
-  } yield println(List(backend, databases, devops).mkString(" - "))
+  } yield println(List(backend, database, devops).mkString(" - "))
 }
 ```
 
