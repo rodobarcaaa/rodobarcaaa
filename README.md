@@ -11,7 +11,7 @@ def profile = {
       val java   = "My first programming language!"
       val scala  = List("Play", "Slick", "Tapir", "Sangria")
       val python = "Learning FastApi!⚡"
-      val node   = "Learning NestJs!"
+      val node   = "Learning NestJs!𓃠"
       java +: scala :+ python :+ node
     }
     database <- List("MySQL", "PostgreSQL", "Redis", "MongoDB")
