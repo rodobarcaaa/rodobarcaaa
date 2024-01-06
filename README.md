@@ -9,10 +9,10 @@ object Profile {
   val currentFocus = List("Play", "Http4s", "Tapir", "Slick", "Cats", "Cats Effect", "Spark")
   val resume       = {
     """
-      |Experienced software engineer in the technology industry, skilled in Scala for developing primarily backend web products, 
-      |including REST and GraphQL web services, database connections, and interaction with third-party integrations. 
-      |I've also ventured into data engineering, leveraging my Scala expertise and seamlessly integrating with tools like Spark. 
-      |Additionally, I bring leadership qualities with strong management and interpersonal skills.
+      |Experienced software engineer in the technology industry, skilled in Scala for developing primarily backend 
+      |web products, including REST and GraphQL web services, database connections, and interaction with third-party 
+      |integrations. I've also ventured into data engineering, leveraging my Scala expertise and seamlessly integrating 
+      |with tools like Spark. Additionally, I bring leadership qualities with strong management and interpersonal skills.
       |""".stripMargin
     }
 }
