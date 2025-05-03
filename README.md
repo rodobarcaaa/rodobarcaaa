@@ -6,7 +6,6 @@ object Profile {
   val formation    = "👨‍🎓 Computer Science Engineer's (Cuba-UCI / Class of 2011)"
   val blogUrl      = "https://blog.echemendía.com"
   val askMeAbout   = ("Tech", "WebDev", "Soccer")
-  val currentFocus = List("Play", "Http4s", "Tapir", "Slick", "Cats", "Cats Effect", "Spark")
   val resume       = {
     """
       |Experienced software engineer in the technology industry, skilled in Scala for developing primarily backend 
