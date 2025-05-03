@@ -4,9 +4,7 @@ object Profile {
   val pronouns     = "He" -> "Him"
   val name         = "Rodolfo Echemendía Quintana"
   val formation    = "👨‍🎓 Computer Science Engineer's (Cuba-UCI / Class of 2011)"
-  val blogUrl      = "https://blog.echemendía.com"
-  val askMeAbout   = ("Tech", "WebDev", "Soccer")
-  val resume       = {
+  val aboutMe      = {
     """
       |Experienced software engineer in the technology industry, skilled in Scala for developing primarily backend 
       |web products, including REST and GraphQL web services, database connections, and interaction with third-party 
@@ -14,5 +12,7 @@ object Profile {
       |with tools like Spark. Additionally, I bring leadership qualities with strong management and interpersonal skills.
       |""".stripMargin
     }
+  val blog         = "https://rodobarcaaa.github.io/blog"
+  val blog         = "https://rodobarcaaa.github.io/online-cv"
 }
 ```
