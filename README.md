@@ -1,4 +1,6 @@
-<!-- ![Header Image](.github/images/header.png) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodolfo%20Echemendía&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rodolfo!;Scala+Developer;Backend+Engineer;Data+Engineering+Enthusiast" alt="Typing SVG" />
@@ -34,7 +36,7 @@ object Profile {
 - 💼 Experienced in backend development and data engineering
 - 🚀 I love building scalable web services and APIs
 - 📚 Always learning and exploring new technologies
-- 🌍 Based in Cuba, contributing to the global tech community
+- 🌍 From Cuba, based in Montevideo, Uruguay, contributing to the global tech community
 - ⚡ Fun fact: I enjoy solving complex problems with elegant code
 
 ## 📫 How to reach me:
@@ -56,6 +58,10 @@ object Profile {
 
 ## 🛠️ Tech Stack:
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
+</div>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/>
     <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/>
@@ -67,12 +73,11 @@ object Profile {
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rodobarcaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodobarcaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rodobarcaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodobarcaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- ![Footer Image](.github/images/footer.png) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</div>
