@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rodolfo!;Scala+Developer;Backend+Engineer;Data+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
 
-I'm a passionate software engineer with expertise in Scala, working primarily on backend web products, including REST and GraphQL services, database integrations, and third-party APIs. I've also ventured into data engineering, leveraging Scala with tools like Spark. I bring strong leadership qualities with excellent management and interpersonal skills.
-
 ## 👨‍💻 About me:
 
 ```scala
