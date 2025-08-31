@@ -12,8 +12,8 @@
 - 💼 Experienced in backend development and data engineering
 - 🚀 I love building scalable web services and APIs
 - 📚 Always learning and exploring new technologies
-- 🌍 From Cuba, based in Montevideo, Uruguay, contributing to the global tech community
-- ⚡ Fun fact: I enjoy solving complex problems with elegant code
+- ⚡ I enjoy solving complex problems with elegant code
+- - 🌍 From Cuba, based in Montevideo, Uruguay
 
 ## 📫 How to reach me:
 
