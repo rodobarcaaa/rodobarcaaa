@@ -1,5 +1,19 @@
+<style>
+  @media (max-width: 768px) {
+    .responsive-img {
+      max-width: 100% !important;
+      height: auto !important;
+    }
+    .stats-container img {
+      max-width: 100% !important;
+      display: block !important;
+      margin: 10px auto !important;
+    }
+  }
+</style>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodolfo%20Echemendía&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodolfo%20Echemendía&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
 
 <p align="center">
@@ -13,7 +27,7 @@
 - 🚀 I love building scalable web services and APIs
 - 📚 Always learning and exploring new technologies
 - ⚡ I enjoy solving complex problems with elegant code
-- - 🌍 From Cuba, based in Montevideo, Uruguay
+- 🌍 From Cuba, based in Montevideo, Uruguay
 
 ## 📫 How to reach me:
 
@@ -35,7 +49,7 @@
 ## 🛠️ Tech Stack:
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" style="width: 100%; max-width: 600px;" />
 </div>
 
 <p align="center">
@@ -49,11 +63,11 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodobarcaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rodobarcaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center" class="stats-container">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodobarcaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="max-width: 48%; height: auto;" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rodobarcaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 48%; height: auto;" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=fff&fontSize=24&animation=blinking" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
