@@ -6,30 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rodolfo!;Scala+Developer;Backend+Engineer;Data+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 About me:
-
-```scala
-object Profile {
-  val pronouns     = "He" -> "Him"
-  val name         = "Rodolfo Echemendía Quintana"
-  val formation    = "👨‍🎓 Computer Science Engineer's (Cuba-UCI / Class of 2011)"
-  val aboutMe      = {
-    """
-      |Experienced software engineer in the technology industry, skilled in Scala for developing primarily backend 
-      |web products, including REST and GraphQL web services, database connections, and interaction with third-party 
-      |integrations. I've also ventured into data engineering, leveraging my Scala expertise and seamlessly integrating 
-      |with tools like Spark. Additionally, I bring leadership qualities with strong management and interpersonal skills.
-      |""".stripMargin
-    }
-  val blog         = "https://rodobarcaaa.github.io/blog"
-  val onlineCV     = "https://rodobarcaaa.github.io/online-cv"
-  
-  val currentRole  = "Software Engineer"
-  val expertise    = List("Scala", "Backend Development", "Data Engineering", "REST APIs", "GraphQL", "Spark")
-  val interests    = List("Functional Programming", "Distributed Systems", "Data Processing")
-}
-```
-
 ## 🌟 Some facts about me:
 
 - 🎯 I'm passionate about functional programming and Scala
