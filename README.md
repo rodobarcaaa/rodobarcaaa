@@ -15,10 +15,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodolfo%20Echemendía&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rodolfo!;Scala+Developer;Backend+Engineer;Data+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=E44141&center=true&vCenter=true&width=600&lines=Scala+Developer;Backend+Engineer;Data+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 ## 🌟 Some facts about me:
 
@@ -69,5 +69,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
