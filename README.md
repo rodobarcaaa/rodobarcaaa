@@ -1,6 +1,41 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodolfo%20Echemendía&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
+
+<style>
+  @media (max-width: 768px) {
+    .responsive-img {
+      max-width: 100% !important;
+      height: auto !important;
+    }
+    .stats-container img {
+      max-width: 100% !important;
+      display: block !important;
+      margin: 10px auto !important;
+    }
+    .tech-stack img {
+      margin: 5px !important;
+    }
+  }
+  
+  .stats-container img {
+    max-width: 48%;
+    height: auto;
+    margin: 5px;
+  }
+  
+  .tech-stack {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+  }
+  
+  .tech-stack img {
+    margin: 5px;
+  }
+</style>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=E44141&center=true&vCenter=true&width=600&lines=Scala+Developer;Backend+Engineer;Data+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
@@ -17,20 +52,19 @@
 
 ## 🛠️ Tech Stack:
 
-<p align="center">
+<div class="tech-stack" align="center">
     <img src="https://img.shields.io/badge/Scala-FF0000?style=flat&logo=scala&logoColor=white" alt="Scala"/>
-    <img src="https://img.shields.io/badge/Apache_Spark-FFA500?style=flat&logo=apache-spark&logoColor=white" alt="Spark"/>
-    <img src="https://img.shields.io/badge/GraphQL-FF1493?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/>
-    <img src="https://img.shields.io/badge/REST-4169E1?style=flat&logo=rest&logoColor=white" alt="REST"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-9370DB?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Docker-00CED1?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+    <img src="https://img.shields.io/badge/Apache_Spark-FFA500?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
+    <img src="https://img.shields.io/badge/Cats_Effect-9370DB?style=flat&logo=scala&logoColor=white" alt="Cats Effect"/>
+    <img src="https://img.shields.io/badge/Akka-00CED1?style=flat&logo=akka&logoColor=white" alt="Akka"/>
+    <img src="https://img.shields.io/badge/Play_Framework-00AA00?style=flat&logo=play&logoColor=white" alt="Play Framework"/>
+</div>
 
 ## 📊 GitHub Stats:
 
 <div align="center" class="stats-container">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodobarcaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="max-width: 48%; height: auto;" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rodobarcaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 48%; height: auto;" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rodobarcaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rodobarcaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
