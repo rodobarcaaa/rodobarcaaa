@@ -1,17 +1,3 @@
-<style>
-  @media (max-width: 768px) {
-    .responsive-img {
-      max-width: 100% !important;
-      height: auto !important;
-    }
-    .stats-container img {
-      max-width: 100% !important;
-      display: block !important;
-      margin: 10px auto !important;
-    }
-  }
-</style>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodolfo%20Echemendía&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
@@ -32,14 +18,9 @@
 ## 📫 How to reach me:
 
 <p align="center">
-    <a href="https://rodobarcaaa.github.io/blog" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog"/>
-    </a>
+    TODO: email
     <a href="https://rodobarcaaa.github.io/online-cv" target="_blank">
         <img src="https://img.shields.io/badge/CV-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Online CV"/>
-    </a>
-    <a href="https://github.com/rodobarcaaa" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://linkedin.com/in/rechemendia" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
