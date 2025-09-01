@@ -6,7 +6,7 @@
 </p>
 
 
-## 🌟 Some facts about me:
+## 🌟 About me:
 
 - 🎯 I'm passionate about functional programming and Scala
 - 💼 Experienced in backend development and data engineering
@@ -15,23 +15,7 @@
 - ⚡ I enjoy solving complex problems with elegant code
 - 🌍 From Cuba, based in Montevideo, Uruguay
 
-## 📫 How to reach me:
-
-<p align="center">
-    TODO: email
-    <a href="https://rodobarcaaa.github.io/online-cv" target="_blank">
-        <img src="https://img.shields.io/badge/CV-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Online CV"/>
-    </a>
-    <a href="https://linkedin.com/in/rechemendia" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</p>
-
 ## 🛠️ Tech Stack:
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" style="width: 100%; max-width: 600px;" />
-</div>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Scala-FF0000?style=flat&logo=scala&logoColor=white" alt="Scala"/>
