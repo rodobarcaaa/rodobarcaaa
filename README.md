@@ -22,10 +22,12 @@
     <img src="https://img.shields.io/badge/Scala-FF0000?style=flat&logo=scala&logoColor=white" alt="Scala"/>
     <img src="https://img.shields.io/badge/Cats_Effect-9370DB?style=flat&logo=scala&logoColor=white" alt="Cats Effect"/>
     <img src="https://img.shields.io/badge/Http4s-00BFFF?style=flat&logo=scala&logoColor=white" alt="Http4s"/>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Doobie-3776AB?style=flat&logo=scala&logoColor=white" alt="Doobie"/>
     <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks"/>
     <img src="https://img.shields.io/badge/Apache_Spark-FFA500?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> 
+    <img src="https://img.shields.io/badge/CI/CD-FF3621?style=flat&logoColor=white" alt="CI/CD"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=aws&logoColor=white" alt="AWS"/>
 </div>
 
 ## 📊 GitHub Stats:
