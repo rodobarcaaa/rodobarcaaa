@@ -2,40 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodolfo%20Echemendía&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
 
-<style>
-  @media (max-width: 768px) {
-    .responsive-img {
-      max-width: 100% !important;
-      height: auto !important;
-    }
-    .stats-container img {
-      max-width: 100% !important;
-      display: block !important;
-      margin: 10px auto !important;
-    }
-    .tech-stack img {
-      margin: 5px !important;
-    }
-  }
-  
-  .stats-container img {
-    max-width: 48%;
-    height: auto;
-    margin: 5px;
-  }
-  
-  .tech-stack {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin: 20px 0;
-  }
-  
-  .tech-stack img {
-    margin: 5px;
-  }
-</style>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=E44141&center=true&vCenter=true&width=600&lines=Scala+Developer;Backend+Engineer;Data+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
@@ -68,5 +34,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
