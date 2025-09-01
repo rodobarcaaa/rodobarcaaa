@@ -20,10 +20,10 @@
 
 <div class="tech-stack" align="center">
     <img src="https://img.shields.io/badge/Scala-FF0000?style=flat&logo=scala&logoColor=white" alt="Scala"/>
-    <img src="https://img.shields.io/badge/Apache_Spark-FFA500?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
     <img src="https://img.shields.io/badge/Cats_Effect-9370DB?style=flat&logo=scala&logoColor=white" alt="Cats Effect"/>
-    <img src="https://img.shields.io/badge/Akka-00CED1?style=flat&logo=akka&logoColor=white" alt="Akka"/>
-    <img src="https://img.shields.io/badge/Play_Framework-00AA00?style=flat&logo=play&logoColor=white" alt="Play Framework"/>
+    <img src="https://img.shields.io/badge/Play_Framework-00AA00?style=flat&logo=scala&logoColor=white" alt="Play Framework"/>  
+    <img src="https://img.shields.io/badge/Apache_Spark-FFA500?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
+    
 </div>
 
 ## 📊 GitHub Stats:
@@ -34,5 +34,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=32" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=72" class="responsive-img" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
